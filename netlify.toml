@@ -1,0 +1,3 @@
+[build]
+  publish = "build"          # Yahan sahi folder ka naam ho
+  command = "npm run build"  # Yahan sahi build command ho
